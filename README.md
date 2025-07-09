@@ -1,5 +1,7 @@
-This project contains multiple functions and features to make it a polished & immersive experience (even if for just a couple of minutes).
+This project contains multiple functions and features to make it a polished & immersive experience (even if for just a couple of minutes). This is an older project, made before Unit Circle Visualizer and 2048 in Tkinter, in 2024.
+
 CONTROLS:
+
 H - Hide/show controls
 
 X - Delete all sand
